@@ -1,16 +1,4 @@
 #!/bin/bash
-#===============================================================================
-#
-#          FILE: get_uavsar.sh
-#
-#         USAGE: ./get_uavsar.sh
-#
-#   DESCRIPTION: This script can be used to download UAVSAR data from the ASF data pool using ASF API Query
-#
-#  DEPENDENCIES: aria2, wget
-#  ORGANIZATION: GSD-UFAL
-#       CREATED: 20-03-2016 16:05:04 BRT
-#===============================================================================
 
 # EarthData credentials (https://urs.earthdata.nasa.gov)
 USER="username"
